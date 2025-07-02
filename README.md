@@ -39,4 +39,4 @@ ecommerce-app is a modern, full-stack eCommerce web application built with the *
 
 - Backend: https://ecommerce-app-xwev.onrender.com
 - Frontend: https://ecommerce-app-1-bbbk.onrender.com
-- Admin Dashboard:
+- Admin Dashboard: https://ecommerce-app-admin-c8id.onrender.com
