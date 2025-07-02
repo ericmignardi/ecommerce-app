@@ -35,7 +35,7 @@ const Add = ({ token }) => {
       const response = await axiosInstance.post("/api/product/add", formData, {
         headers: { token },
       });
-      if (response.data.success === "true") {
+      if (response.data.success === true) {
         toast.success(response.data.message);
         setName("");
         setDescription("");
