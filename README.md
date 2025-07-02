@@ -29,14 +29,14 @@ ecommerce-app is a modern, full-stack eCommerce web application built with the *
 - **Validator** — Form validation
 - **Render.com** — Deployment platform
 
-## 📸 Screenshots
-
-![Home Page](./frontend/src/assets/screenshot0.png)  
-![Product Page](./frontend/src/assets/screenshot1.png)  
-![Checkout Page](./frontend/src/assets/screenshot2.png)
-
 ## 🔗 Links
 
 - Backend: https://ecommerce-app-xwev.onrender.com
 - Frontend: https://ecommerce-app-1-bbbk.onrender.com
 - Admin Dashboard: https://ecommerce-app-admin-c8id.onrender.com
+
+## 📸 Screenshots
+
+![Home Page](./frontend/src/assets/screenshot0.png)  
+![Product Page](./frontend/src/assets/screenshot1.png)  
+![Checkout Page](./frontend/src/assets/screenshot2.png)
